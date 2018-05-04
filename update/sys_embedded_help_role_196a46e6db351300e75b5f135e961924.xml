@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_employee_inf.employee_user" name="x_snc_employee_inf.employee_user">5d6ac2e6db351300e75b5f135e9619d2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-04 02:44:20</sys_created_on>
+        <sys_id>196a46e6db351300e75b5f135e961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5d6ac2e6db351300e75b5f135e9619d2</sys_name>
+        <sys_package display_value="Employee Information" source="x_snc_employee_inf">8d7842a6db351300e75b5f135e961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Information">8d7842a6db351300e75b5f135e961912</sys_scope>
+        <sys_update_name>sys_embedded_help_role_196a46e6db351300e75b5f135e961924</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-04 02:44:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
